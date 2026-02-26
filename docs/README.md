@@ -1,19 +1,23 @@
-UniPath (CVPR 2026)
-=======
+<p align="center" width="100%">
+<a target="_blank"><img src="assets/fudan-fysics.jpg" alt="" style="width: 75%; min-width: 200px; display: block; margin: auto;"></a>
+</p>
 
-**Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control**
+<div align="center">
+<br>
+<h1>[CVPR 2026] Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control</h1>
 
-<table width="100%">
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
-  <tr>
-    <td width="25%" align="center"><a href="https://arxiv.org/abs/2512.21058">[📖 Paper]</a></td>
-    <td width="25%" align="center"><a href="https://huggingface.co/datasets/minghaofdu/UniPath-1M">[🤗 UniPath-1M]</a></td>
-    <td width="25%" align="center"><a href="https://huggingface.co/datasets/minghaofdu/UniPath-68K">[🤗 UniPath-68K]</a></td>
-    <td width="25%" align="center"><a href="https://huggingface.co/minghaofdu/UniPath-7B">[🧠 Model Weight]</a></td>
-  </tr>
-</table>
 
+<font size=7><div align='center' >
+[[🏠 Project Page](https://github.com/Hanminghao/UniPath)]
+[[📖 Paper](https://arxiv.org/abs/2512.21058)]
+[[🤗 UniPath-1M](https://huggingface.co/datasets/minghaofdu/UniPath-1M)]
+[[🤗 UniPath-68K](https://huggingface.co/datasets/minghaofdu/UniPath-68K)]
+[🧠 Model Weight](https://huggingface.co/minghaofdu/UniPath-7B)
+</div></font>
+
+</div>
 
 <img src="logo.png" width="200px" align="right" />
 
