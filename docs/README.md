@@ -1,7 +1,3 @@
-<p align="center" width="100%">
-<a target="_blank"><img src="assets/fudan-fysics.jpg" alt="" style="width: 75%; min-width: 200px; display: block; margin: auto;"></a>
-</p>
-
 <div align="center">
 <br>
 <h1>[CVPR 2026] Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control</h1>
