@@ -4,11 +4,13 @@ UniPath (CVPR 2026)
 **Beyond Pixel Simulation: Pathology Image Generation via Diagnostic Semantic Tokens and Prototype Control**
 
 <table width="100%">
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
+
   <tr>
-    <td width="25%" align="center"><a href="https://arxiv.org/abs/2512.21058">Paper</a></td>
-    <td width="25%" align="center"><a href="https://huggingface.co/datasets/minghaofdu/UniPath-1M">UniPath-1M</a></td>
-    <td width="25%" align="center"><a href="https://huggingface.co/datasets/minghaofdu/UniPath-68K">UniPath-68K</a></td>
-    <td width="25%" align="center"><a href="https://huggingface.co/minghaofdu/UniPath-7B">Model Weight</a></td>
+    <td width="25%" align="center"><a href="https://arxiv.org/abs/2512.21058">[📖 Paper]</a></td>
+    <td width="25%" align="center"><a href="https://huggingface.co/datasets/minghaofdu/UniPath-1M">[🤗 UniPath-1M]</a></td>
+    <td width="25%" align="center"><a href="https://huggingface.co/datasets/minghaofdu/UniPath-68K">[🤗 UniPath-68K]</a></td>
+    <td width="25%" align="center"><a href="https://huggingface.co/minghaofdu/UniPath-7B">[🧠 Model Weight]</a></td>
   </tr>
 </table>
 
