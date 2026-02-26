@@ -59,13 +59,6 @@ python src/inference.py \
   images/
 ```
 
-Expected H5 keys:
-- `sample_key`
-- `conch_text_features`
-- `conch_visual_features`
-- `uni2h_features`
-- `gemini_description`
-
 ## Acknowledgements
 This repository substantially reuses and adapts components from:
 - **BLIP3o:** https://github.com/JiuhaiChen/BLIP3o/tree/main
