@@ -14,7 +14,7 @@
 [[📖 Paper](https://arxiv.org/abs/2512.21058)]
 [[🤗 UniPath-1M](https://huggingface.co/datasets/minghaofdu/UniPath-1M)]
 [[🤗 UniPath-68K](https://huggingface.co/datasets/minghaofdu/UniPath-68K)]
-[🧠 Model Weight](https://huggingface.co/minghaofdu/UniPath-7B)
+[[🧠 Model Weight]](https://huggingface.co/minghaofdu/UniPath-7B)
 </div></font>
 
 </div>
