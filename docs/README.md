@@ -61,6 +61,7 @@ python src/inference.py \
 
 ## Acknowledgements
 This repository substantially reuses and adapts components from:
+- **Patho-R1:** https://github.com/Wenchuan-Zhang/Patho-R1
 - **BLIP3o:** https://github.com/JiuhaiChen/BLIP3o/tree/main
 - **PixCell-256:** https://huggingface.co/StonyBrook-CVLab/PixCell-256
 
